@@ -1,24 +1,20 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 
-function App() {
+const App=()=> {
   return (
     <div className="App">
       <HomePage />
     </div>
   );
 }
-function HomePage() {
+const HomePage=()=> {
   return (
     <div>
-      <h1>
-      Club Acuatico Los Fenix
-      </h1>
-      <p>
-        Somos un equipo comprometido con el crecimiento deportivo
-      </p>
+      <h1>Club Acuatico Los Fenix</h1>
+      <p>Somos un equipo comprometido con el crecimiento deportivo</p>
     </div>
-  )
+  );
 }
 
 export default App;
