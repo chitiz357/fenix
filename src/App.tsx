@@ -11,7 +11,7 @@ const App=()=> {
 
 const HomePage = () => {
   const allUser = getAllUser()
-  console.log(allUser)
+  
   return (
     <div>
       <h1>Club Acuatico Los Fenix</h1>
