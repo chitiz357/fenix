@@ -7,7 +7,9 @@ const App = () => {
   return (
     <div className="App">
       <NavBar />
-      <HomePage />
+      <div className="container">
+        <HomePage />
+      </div>
     </div>
   );
 };
@@ -23,7 +25,6 @@ const HomePage = () => {
 
   return (
     <div>
-      <h1>Club Acuatico Los Fenix</h1>
       <p>Somos un equipo comprometido con el crecimiento deportivo</p>
       <ul>
         {userd.map((user) => {
@@ -36,7 +37,6 @@ const HomePage = () => {
       </ul>
     </div>
   );
-
 };
 
 export default App;

@@ -2,12 +2,14 @@
   :root {
     --backColor: #000;
     --fontColor: #fff;
+    --conBackColor:#263238 ;
   }
 }
 @media (prefers-color-scheme: light) {
   :root {
     --backColor: #fff;
     --fontColor: #000;
+    --conBackColor:#cfd8dc ;
   }
 }
 
@@ -16,6 +18,7 @@ body {
   color: var(--fontColor);
 }
 
-.App {
-  text-align: center;
+.container {
+
+margin: 0 1rem;
 }
