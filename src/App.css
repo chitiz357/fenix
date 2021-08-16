@@ -1,21 +1,21 @@
-@media (prefers-color-scheme:dark) {
-  :root{
-   --backColor:#000;
-   --fontColor:#fff; 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --backColor: #000;
+    --fontColor: #fff;
   }
 }
-@media (prefers-color-scheme:light) {
-  :root{
-   --backColor:#fff;
-   --fontColor:#000; 
+@media (prefers-color-scheme: light) {
+  :root {
+    --backColor: #fff;
+    --fontColor: #000;
   }
 }
 
-body{
-  background-color:var(--backColor);
-  color:var(--fontColor)
+body {
+  background-color: var(--backColor);
+  color: var(--fontColor);
 }
 
-.App{
+.App {
   text-align: center;
 }

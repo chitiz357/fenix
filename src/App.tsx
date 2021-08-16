@@ -1,5 +1,5 @@
-import React from "react";
 import "./App.css";
+import { getAllUser } from "./service/serviceUser";
 
 const App=()=> {
   return (
@@ -8,7 +8,10 @@ const App=()=> {
     </div>
   );
 }
-const HomePage=()=> {
+
+const HomePage = () => {
+  const allUser = getAllUser()
+  console.log(allUser)
   return (
     <div>
       <h1>Club Acuatico Los Fenix</h1>
