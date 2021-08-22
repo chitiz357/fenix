@@ -1,15 +1,15 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import { NavBar } from "./components";
+import { NavBar , Container} from "./components";
 import { getAllUser } from "./service/serviceUser";
 
 const App = () => {
   return (
     <div className="App">
       <NavBar />
-      <div className="container">
+      <Container >
         <HomePage />
-      </div>
+      </Container>
     </div>
   );
 };

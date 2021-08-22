@@ -1,5 +1,12 @@
 .NavBar {
-	/* background-color: blue; */
-	padding: 1rem;
-	box-shadow: 0 0 1rem #e3e3e3;
+  /* background-color: blue; */
+  padding: 1rem;
+  background-color: #f9e230;
+  color: white;
+  text-align: center;
+  position: sticky;
+}
+.Container {
+  margin: 1rem 10%;
+  background-color: #fafafa;
 }
