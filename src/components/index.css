@@ -1,12 +1,26 @@
+@import "../App.css";
+
 .NavBar {
-  /* background-color: blue; */
   padding: 1rem;
-  background-color: #f9e230;
+  
+  background-color: var(--primery-color);
   color: white;
   text-align: center;
   position: sticky;
 }
 .Container {
+  background-color: var(--conBackColor);
   margin: 1rem 10%;
-  background-color: #fafafa;
+}
+
+.Footer{
+  background-color: var(--primery-color);
+  height: 50%;
+  padding:5rem;
+  
+}
+
+li,
+ul {
+  padding-left: 0;
 }

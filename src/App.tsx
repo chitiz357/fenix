@@ -1,15 +1,16 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import { NavBar , Container} from "./components";
+import { NavBar, Container, Footer } from "./components";
 import { getAllUser } from "./service/serviceUser";
 
 const App = () => {
   return (
     <div className="App">
       <NavBar />
-      <Container >
+      <Container>
         <HomePage />
       </Container>
+      <Footer />
     </div>
   );
 };

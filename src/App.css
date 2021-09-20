@@ -1,24 +1,13 @@
-@media (prefers-color-scheme: dark) {
-  :root {
-    --backColor: #000;
-    --fontColor: #fff;
-    --conBackColor:#263238 ;
-  }
-}
-@media (prefers-color-scheme: light) {
-  :root {
-    --backColor: #fff;
-    --fontColor: #000;
-    --conBackColor:#cfd8dc ;
-  }
+:root {
+  --background-color: #fff;
+  --font-color: #000;
+  --conBackColor: #cfd8dc;
+  --primery-color: #f8c828;
 }
 
 body {
-  background-color: var(--backColor);
-  color: var(--fontColor);
+  background-color: var(--background-color);
+  color: var(--font-color);
 }
 
-.container {
 
-margin: 0 1rem;
-}

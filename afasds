@@ -1,0 +1,74 @@
+[33mcommit f433f05dc5205b823758f84281fd05e3123a4900[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 39a90b2 3e231f1
+Author: Bryan Then <70908719+chitiz357@users.noreply.github.com>
+Date:   Sat Aug 21 23:20:15 2021 -0400
+
+    Merge pull request #1 from chitiz357/dev
+    
+    style:
+
+[33mcommit 3e231f17924fa3eb5ed036ea550a6c3ee9d2be96[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Sat Aug 21 22:57:04 2021 -0400
+
+    style:
+
+[33mcommit 39a90b23057d3d2983862c8f60c5722e3714affb[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Mon Aug 16 10:08:06 2021 -0400
+
+    style: a
+
+[33mcommit 4fdfc4ac932c542d9792b5e99f11d38a9ff5ab5b[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Mon Aug 16 09:32:09 2021 -0400
+
+    components: add NavBar
+
+[33mcommit 8fbb31c35bb8b5a8311e32ec09411d8412cf66cf[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Mon Aug 16 09:13:51 2021 -0400
+
+    add: render users
+
+[33mcommit 56e67a29fd2991e9ad40b9e64c8c54ad72e2ad51[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Mon Aug 16 08:46:05 2021 -0400
+
+    install: react router dom
+
+[33mcommit 67b69de7bd22f15a4dbb15b63996db4f5173790c[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Mon Aug 16 08:43:39 2021 -0400
+
+    install: axios && add: getAllUser
+
+[33mcommit a803b8202b7e4f91b790d3da0a7133eb266197ce[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Mon Aug 16 03:24:30 2021 -0400
+
+    style: adding dark mode
+
+[33mcommit ee6726941b5e7eae1d09df7d55b82bfb7173d8f9[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Mon Aug 16 03:10:08 2021 -0400
+
+    delete: innecesari files
+
+[33mcommit 2037da2a0afcc65a3a40f953c39839d1cf3b0ddb[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Mon Aug 16 03:03:08 2021 -0400
+
+    add: rename title of page
+
+[33mcommit 9bbcf1c2cdab8775588a85cf31ba0c97e4f50892[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Mon Aug 16 02:50:55 2021 -0400
+
+    add: first home page
+
+[33mcommit dce3b3d3fda6f3717c197ab41c44ccc6bf95afbb[m
+Author: bryan <thenhernandezb@gmail.com>
+Date:   Mon Aug 16 02:28:59 2021 -0400
+
+    Initialize project using Create React App

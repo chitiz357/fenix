@@ -1,4 +1,5 @@
-import './index.css'
+import "./index.css";
 
-export { Container } from './container'
-export { NavBar } from './NavBar'
+export { Container } from "./container";
+export { NavBar } from "./NavBar";
+export { Footer } from "./Footer";
